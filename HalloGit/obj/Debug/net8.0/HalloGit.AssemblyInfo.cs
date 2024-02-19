@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HalloGit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+defcad844be65fb431c8047c5317c1503ee3f05e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+790531322f7923a69ad7ed012e19b45e82d717eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("HalloGit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HalloGit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
